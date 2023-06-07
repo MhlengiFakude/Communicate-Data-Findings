@@ -18,6 +18,5 @@ Based on the visualizations found through exploration, the key takeaway is that 
 ## Key Insights for Presentation
 
 >
-  -As the prosperscore increases the Borrower Rate decreases and that make a little bit of sense,because these are people who are in good postion according to Prosper ,hence they posses lower risk so  they will have lower interest rate than those who are rated lower.
-  -According to the exploration of the data,the largest interest rate listed is found on the people who identified themselves as not the the home owners. This might also be associated with risky and not risky clients, because owning a home may serve as an evidence being responsible financially hence there is a lower risk. This can be confirmed or explored further as this is still the assumption.
-  -
+-As the prosperscore increases the Borrower Rate decreases and that make a little bit of sense,because these are people who are in good postion according to Prosper ,hence they posses lower risk so  they will have lower interest rate than those who are rated lower.
+-According to the exploration of the data,the largest interest rate listed is found on the people who identified themselves as not the the home owners. This might also be associated with risky and not risky clients, because owning a home may serve as an evidence being responsible financially hence there is a lower risk. This can be confirmed or explored further as this is still the assumption.
